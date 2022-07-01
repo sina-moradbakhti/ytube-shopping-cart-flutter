@@ -1,6 +1,4 @@
-# test
-
-A new Flutter project.
+# Shopping Cart in Flutter using Singleton + Stream
 
 ## Getting Started
 
